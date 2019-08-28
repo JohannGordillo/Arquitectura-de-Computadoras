@@ -1,15 +1,15 @@
 # Arquitectura de Computadoras.
 
 Repositorio para el curso Organización y Arquitectura de Computadoras
-impartido en la Facultad de Ciencias de la UNAM.
+impartido en la Facultad de Ciencias de la UNAM por el Dr. José de Jesús Galaviz Casas.
 
 ## Comenzando 🚀
 
 En el repositorio se encuentran:
 
-1. Práctica 01 - Arquitectura de la Computadora.
+1. Práctica 01 - Medidas de Desemepeño.
 
-2. Práctica 02 - C.
+2. Práctica 02 - Introducción a C.
 
 ### Pre-requisitos 📋
 
@@ -22,19 +22,17 @@ En el repositorio se encuentran:
 ## Autores ✒️
 
 * **Johann Gordillo** - [JohannGordillo](https://github.com/JohannGordillo)
-* **Jhovan Gallardo** - [Jhovan](https://github.com/Jhovan)
 
 ## Licencia 📄
 
 Este proyecto se encuentra bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para
-más detalles
+más detalles.
 
-## ¿Qué procede? 🎁
+## Expresiones de gratitud 🎁
 
-* Si eres Luis, califica con 10 a los desarrolladores 🤓
-* Si te ha sido de utilidad, invita una cerveza 🍺 a los desarrolladores
-* Comenta a otros sobre este repositorio 📢
+* Si eres Luis, califica con 10 a Johann 🤓 (porfis :C)
+* Si te ha sido de utilidad, invita una cerveza 🍺 al desarrollador
+* Comenta a otros sobre este repositorio 📢 ¡les puede ser de gran ayuda!
 
 ---
 ⌨️ con ❤️ por [Johann Gordillo](https://github.com/JohannGordillo) 😊
-⌨️ con ❤️ por [Jhovan](https://github.com/Jhovan) 😊
