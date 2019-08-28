@@ -1,4 +1,4 @@
-# Codigo de Conducta
+# Código de Conducta
 
 Si encontraste este repositorio y te encuentras actualmente tomando
 el curso Organización y Arquitectura de Computadoras,
