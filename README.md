@@ -1,19 +1,19 @@
-# Arquitectura de Computadoras.
+# Organización y Arquitectura de Computadoras :computer:
 
 Repositorio para el curso Organización y Arquitectura de Computadoras
 impartido en la Facultad de Ciencias de la UNAM por el Dr. José de Jesús Galaviz Casas.
 
-## Comenzando 🚀
+## Contenido :file_folder:
 
 En el repositorio se encuentran:
 
-1. Práctica 01 - Medidas de Desemepeño.
+1. [Práctica 01](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/Practicas/) - Medidas de Desemepeño.
 
-2. Práctica 02 - Introducción a C.
+2. [Práctica 02](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/Practicas/) - Introducción a C.
 
 ### Pre-requisitos 📋
 
-* Compilador de C (recomendamos GCC).
+* GNU C Compiler (GCC) - Para compilar los programas en C.
 
 ## Construido con 🛠️
 
@@ -21,7 +21,7 @@ En el repositorio se encuentran:
 
 ## Autores ✒️
 
-* **Johann Gordillo** - [JohannGordillo](https://github.com/JohannGordillo)
+* **Johann Gordillo** - [Johann Gordillo](https://github.com/JohannGordillo)
 
 ## Licencia 📄
 
