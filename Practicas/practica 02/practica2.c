@@ -28,7 +28,7 @@ double n_raiz(int n, double val);
 int indice_maximo(double *datos, int n);
 int indice_minimo(double *datos, int n);
 void libera_matriz(double **matriz,int n, int m);
-double** matriz_double(int n, int m);
+double** matriz_double(int n, int m); 
 
 /* ------------------------------------------
  * Función: main
