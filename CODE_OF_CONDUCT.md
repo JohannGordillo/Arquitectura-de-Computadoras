@@ -1,32 +1,15 @@
 # Codigo de Conducta
 
-## Nuestros estándares
+Si encontraste este repositorio y te encuentras actualmente tomando
+el curso Organización y Arquitectura de Computadoras,
+te invitamos a intentar realizar las prácticas y proyectos por tu
+cuenta.
 
-Ejemplos de comportamiento que contribuyen a crear un entorno positivo de desarrollo incluyen:
+De nada sirve tomar la información del repositorio y entregar las prácticas o
+proyectos que en él se encuentran a tu profesor(a) si no aprenderás los temas.
 
-* Enfocarse en lo que es mejor para la comunidad
-* Ser respetuoso con los distintos puntos de vista y experiencias
-* Mostrar empatia con los otros miembros de la comunidad.
+Si ya cursaste la materia, y te encuentras buscando refrescar tus conocimientos
+o aplicarlos en algún proyecto personal, ¡bienvenido! agradecemos tu interés
+😊.
 
-Ejemplos de comportamientos inaceptables:
-
-* Insultar y trollear
-* Publicar información personal de otros miembros sin su permiso
-* Cualquier otra conducta que no permita el desarrollo profesional de los miembros de la comunidad
-en un ambiente de respeto y tolerancia.
-
-## Nuestras responsabilidades
-
-Mi responsabilidad es esclarecer los estándares de comportamientos
-aceptables y tomar cartas en el asunto al encontrar comportamientos
-inaceptables de miembros de la comunidad.
-
-Tengo el derecho y responsabiliad de eliminar, editar y rechazar comentarios,
-commits, código, y otras contribuciones que no sigan este Código de Conducta,
-o de bannear temporalmente o permanentemente a cualquier contribuidor que tenga
-conductas inapropiadas u ofensivas.
-
-## Alcance
-
-Este Codigo de Conducta aplica al espacio del proyecto y a espacios públicos donde
-un individuo esté representando al proyecto y/o a su comunidad.
+Únicamente te pedimos darnos créditos por la información que hayas usado.

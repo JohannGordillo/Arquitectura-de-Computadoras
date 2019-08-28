@@ -1,75 +1,40 @@
-# Sweathers 'n Open Weather (SnOW).
+# Arquitectura de Computadoras.
 
-Dado un archivo .csv con hasta 3,000 coordenadas geográficas, da el clima en tiempo real
-en cada una de las ubicaciones haciendo uso del web service Open Weather Map.
-
-Esto es bastante útil si vas a viajar o si tu empresa proporciona servicios de transporte,
-¿no lo crees?,
-yo también.
+Repositorio para el curso Organización y Arquitectura de Computadoras
+impartido en la Facultad de Ciencias de la UNAM.
 
 ## Comenzando 🚀
 
-Para hacer uso de Sweathers 'n Open Weather (SnOW):
+En el repositorio se encuentran:
 
-1. Colocate en la raíz del proyecto (Tarea01) y ejecuta:
-```
-python run.py
-```
+1. Práctica 01 - Arquitectura de la Computadora.
 
-2. Se desplegará una interfaz gráfica para que puedas seleccionar
-tu archivo .csv
-
-3. ¡Es todo! se te mostrarán en la salida estándar los climas
-actuales de las coordenadas presentes en tu archivo seleccionado.
+2. Práctica 02 - C.
 
 ### Pre-requisitos 📋
 
-* Python 3.x
-
-* Pytest
-```
-pip install -U pytest
-```
-
-* Requests
-```
-pip install requests
-```
-
-## Ejecutando las pruebas ⚙️
-
-1. Colocate en la raíz del proyecto (Tarea01) y ejecuta:
-```
-python -m pytest tests
-```
-
-2. Espera a que finalicen las pruebas.
-
-3. ¡Es todo! se te mostrarán en la salida estándar los resultados.
+* Compilador de C (recomendamos GCC).
 
 ## Construido con 🛠️
 
-* [Pytest](https://docs.pytest.org/en/latest/) - Usado para generar las pruebas
-* [Requests](https://2.python-requests.org/en/master/) - Usado para generar peticiones al web service
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](CONTRIBUTING.md) para detalles
-sobre las contribuciones.
+* [LaTeX](https://www.latex-project.org/) - Usado para construir los PDF's
 
 ## Autores ✒️
 
-* **Johann Gordillo** - *Proyecto completo* - [JohannGordillo](https://github.com/JohannGordillo)
+* **Johann Gordillo** - [JohannGordillo](https://github.com/JohannGordillo)
+* **Jhovan Gallardo** - [Jhovan](https://github.com/Jhovan)
 
 ## Licencia 📄
 
-Este proyecto está bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para detalles
+Este proyecto se encuentra bajo la Licencia MIT - mira el archivo [LICENSE](LICENSE) para
+más detalles
 
-## ¿Y ahora? 🎁
+## ¿Qué procede? 🎁
 
-* Califica con 10 el proyecto de Johann 🤓
-* Invita una cerveza 🍺 al desarrollador
-* Comenta a otros sobre este proyecto 📢
+* Si eres Luis, califica con 10 a los desarrolladores 🤓
+* Si te ha sido de utilidad, invita una cerveza 🍺 a los desarrolladores
+* Comenta a otros sobre este repositorio 📢
 
 ---
 ⌨️ con ❤️ por [Johann Gordillo](https://github.com/JohannGordillo) 😊
+⌨️ con ❤️ por [Jhovan](https://github.com/Jhovan) 😊

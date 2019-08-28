@@ -1,0 +1,130 @@
+% Adding packages
+\documentclass[12pt,letterpaper,fleqn]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[spanish,es-nodecimaldot]{babel}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{multicol}
+\usepackage{graphicx}
+\usepackage[table, svgnames, dvipsnames]{xcolor}
+\usepackage{makecell, cellspace, caption}
+\usepackage[dvipsnames]{xcolor}
+\usepackage[most]{tcolorbox}
+\usepackage{colortbl}
+\usepackage{tabu}
+\usepackage{mathtools}
+\usepackage[top=1in, bottom=1in, left=1in, right=1in]{geometry}
+\setlength\cellspacetoplimit{3pt}
+\setlength\cellspacebottomlimit{3pt}
+
+\begin{document}
+\section*{Acer Captain\_SK}
+\noindent \textbf{Propietario:} Enrique.\\
+
+\subsection*{Procesador}
+\renewcommand{\arraystretch}{2}
+\setlength\arrayrulewidth{1pt}
+\begin{table}[h]
+    \begin{tabular}{|>{\columncolor[gray]{0.9}}p{8cm}|p{8cm}|}
+        \hline
+        Fabricante & Intel\\
+        \hline
+        Modelo & Core i5-6200U\\
+        \hline
+        Frecuencia & 2.8 GHz\\
+        \hline
+        Núcleos & 2\\
+        \hline
+        Arquitectura & 64 bits\\
+        \hline
+    \end{tabular}
+\end{table}
+
+\subsection*{Memoria}
+\renewcommand{\arraystretch}{2}
+\setlength\arrayrulewidth{1pt}
+\begin{table}[h]
+    \begin{tabular}{|>{\columncolor[gray]{0.9}}p{8cm}|p{8cm}|}
+        \hline
+        Random Access Memory (RAM) & 12 GB\\
+        \hline
+    \end{tabular}
+\end{table}
+
+\subsection*{Disco}
+\renewcommand{\arraystretch}{2}
+\setlength\arrayrulewidth{1pt}
+\begin{table}[h]
+    \begin{tabular}{|>{\columncolor[gray]{0.9}}p{8cm}|p{8cm}|}
+        \hline
+        Capacidad & 1000 GB\\
+        \hline
+        Tipo & Western Digital WD10JPVX-22J\\   
+        \hline                     
+    \end{tabular}
+\end{table}
+\newpage
+
+\subsection*{Sistema Operativo}
+\setlength\arrayrulewidth{1pt}
+\begin{table}[h]
+    \begin{tabular}{|>{\columncolor[gray]{0.9}}p{8cm}|p{8cm}|}
+        \hline
+        Distribución & Ubuntu 19.04\\
+        \hline
+        Versión del kernel & Linux 5.0.0-25-generic (x86\_64)\\   
+        \hline
+        Escritorio & GNOME 3.32.2\\
+        \hline                
+    \end{tabular}
+\end{table}
+
+\subsection*{Multimedia}
+\renewcommand{\arraystretch}{2}
+\setlength\arrayrulewidth{1pt}
+\begin{table}[h]
+    \begin{tabular}{|>{\columncolor[gray]{0.9}}p{8cm}|p{8cm}|}
+        \hline
+        Gráficos & Intel Skylake GT2 [HD 520] (10000 MHz)\\
+        \hline
+        Audio & Realtek ALC255\\   
+        \hline           
+    \end{tabular}
+\end{table}
+\newpage
+
+\subsection*{Resultados}
+\renewcommand{\arraystretch}{2}
+\setlength\arrayrulewidth{1pt}
+\begin{table}[h]
+    \begin{tabular}{|>{\columncolor[gray]{0.9}}p{8cm}|p{8cm}|}
+        \hline
+        GZIP Compression & 58.51 segundos\\
+        \hline
+        DCRAW & 70.39 segundos\\
+        \hline
+        FLAC Audio Encoding & 18.27 segundos\\
+        \hline
+        GNUPG & 20.47 segundos\\
+        \hline
+        Timed MAFFT Alignment & 10.94 segundos\\
+        \hline
+        Timed MRBAYES Analysis & 1376.42 segundos\\
+        \hline        
+        Timed MPlayer Compilation & 113.09 segundos\\
+        \hline    
+        Timed PHP Compilation & 274.03 segundos\\
+        \hline    
+        REDIS LPOP & 1412478.46 requests/s\\
+        \hline 
+        REDIS SADD & 1181441.38 requests/s\\
+        \hline   
+        REDIS LPUSH & 976264.92 requests/s\\
+        \hline     
+        REDIS GET & 1432053.77 requests/s\\
+        \hline 
+        REDIS SET & 1168740.87 requests/s\\
+        \hline                                            
+    \end{tabular}
+\end{table}
+\end{document}
