@@ -1,8 +1,8 @@
-# Codigo de Conducta
+# Código de Conducta
 
 Si encontraste este repositorio y te encuentras actualmente tomando
 el curso Organización y Arquitectura de Computadoras,
-te invitamos a intentar realizar las prácticas y proyectos por tu
+te invito a intentar realizar las prácticas y proyectos por tu
 cuenta.
 
 De nada sirve tomar la información del repositorio y entregar las prácticas o
@@ -12,4 +12,4 @@ Si ya cursaste la materia, y te encuentras buscando refrescar tus conocimientos
 o aplicarlos en algún proyecto personal, ¡bienvenido! agradecemos tu interés
 😊.
 
-Únicamente te pedimos darnos créditos por la información que hayas usado.
+Únicamente te pido créditos por la información que hayas usado.
