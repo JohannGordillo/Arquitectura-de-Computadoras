@@ -7,13 +7,13 @@ impartido en la Facultad de Ciencias de la UNAM por el Dr. José de Jesús Galav
 
 En el repositorio se encuentran:
 
-1. [Práctica 01](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/Practicas/) - Medidas de Desemepeño.
+1. [Práctica 01](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2001) - Medidas de Desemepeño.
 
-2. [Práctica 02](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/Practicas/) - Introducción a C.
+2. [Práctica 02](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2002) - Introducción a C.
 
 ### Pre-requisitos 📋
 
-* GNU C Compiler (GCC) - Para compilar los programas en C.
+* [GNU Compiler Collection (GCC)](https://gcc.gnu.org/) - Para compilar los programas en C.
 
 ## Construido con 🛠️
 
@@ -21,7 +21,7 @@ En el repositorio se encuentran:
 
 ## Autores ✒️
 
-* **Johann Gordillo** - [Johann Gordillo](https://github.com/JohannGordillo)
+* [Johann Gordillo](https://github.com/JohannGordillo)
 
 ## Licencia 📄
 
