@@ -6,25 +6,25 @@ y los ayudantes [Ricardo Abreu](https://github.com/LezamaXi) y Luis Soto.
 
 ## Prácticas :file_folder:
 
-* [Práctica 01](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2001) - Medidas de Desemepeño.
+* [Práctica 01](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_01) - Medidas de Desemepeño.
 
-* [Práctica 02](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2002) - Introducción a C.
+* [Práctica 02](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_02) - Introducción a C.
 
-* [Práctica 03](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2003) - Circuitos Combinacionales.
+* [Práctica 03](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_03) - Circuitos Combinacionales.
 
-* [Práctica 04](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2004) - Unidad Aritmético Lógica (ALU).
+* [Práctica 04](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_04) - Unidad Aritmético Lógica (ALU).
 
-* [Práctica 05](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2005) - Lógica Secuencial.
+* [Práctica 05](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_05) - Lógica Secuencial.
 
-* [Práctica 06](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2006) - Lenguaje Ensamblador.
+* [Práctica 06](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_06) - Lenguaje Ensamblador.
 
-* [Práctica 07](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2007) - Llamadas al sistema.
+* [Práctica 07](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_07) - Llamadas al sistema.
 
-* [Práctica 08](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2008) - Convención de llamadas a subrutinas.
+* [Práctica 08](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_08) - Convención de llamadas a subrutinas.
 
-* [Práctica 09](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%2009) - Ensamblador para MIPS en C.
+* [Práctica 09](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_09) - Ensamblador para MIPS en C.
 
-* [Práctica 10](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica%20010) - Manejo de Excepciones.
+* [Práctica 10](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_10) - Manejo de Excepciones.
 
 ### Pre-requisitos 📋
 
