@@ -40,7 +40,11 @@ y los ayudantes [Ricardo Abreu](https://github.com/LezamaXi) y Luis Soto.
 
 ## Calificación obtenida :black_nib:
 
-* [Pendiente].
+* Exámenes (50%) - 10.2 / 10
+
+* Laboratorio (50%) - 10 / 10
+
+Calificación Final: 10 
 
 ## Licencia 📄
 
