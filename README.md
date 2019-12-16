@@ -43,8 +43,8 @@ y los ayudantes [Ricardo Abreu](https://github.com/LezamaXi) y Luis Soto.
 * Exámenes (50%) - 10.2 / 10
 
 * Laboratorio (50%) - 10 / 10
-
-Calificación Final: 10 
+--
+* Calificación Final: 10 / 10
 
 ## Licencia 📄
 
