@@ -38,14 +38,13 @@ y los ayudantes [Ricardo Abreu](https://github.com/LezamaXi) y Luis Soto.
 
 * [LaTeX](https://www.latex-project.org/) - Usado para construir los PDF's
 
-## Calificación obtenida :black_nib:
+## Calificaciones :black_nib:
 
-* Exámenes (50%) - 10.2 / 10
+* Exámenes (50%): 10.2 / 10
 
-* Laboratorio (50%) - 10 / 10
+* Laboratorio (50%): 10 / 10
 
-
-* Calificación Final: 10 / 10
+* Calificación final del curso: 10 
 
 ## Licencia 📄
 
