@@ -26,7 +26,7 @@ y los ayudantes [Ricardo Abreu](https://github.com/LezamaXi) y Luis Soto.
 
 * [Práctica 10](https://github.com/JohannGordillo/Arquitectura-de-Computadoras/tree/master/Practicas/practica_10) - Manejo de Excepciones.
 
-### Pre-requisitos 📋
+### Prerrequisitos 📋
 
 * [GNU Compiler Collection (GCC)](https://gcc.gnu.org/) - Para compilar los programas en C.
 
