@@ -2,7 +2,7 @@
 
 Repositorio para las prácticas y proyectos del curso de Organización y Arquitectura de Computadoras
 impartido en la Facultad de Ciencias de la UNAM durante el semestre 2020-1 por el Dr. José de Jesús Galaviz Casas 
-y los ayudantes [Ricardo Abreu](https://github.com/LezamaXi) y Luis Soto.
+y los ayudantes [Ricardo Abreu](https://github.com/ricardorodab) y Luis Soto.
 
 ## Prácticas :file_folder:
 
